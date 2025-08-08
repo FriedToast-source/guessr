@@ -1,6 +1,6 @@
-# Taskie
+# Guessr
 
-Taskie is a cli-task-tracker
+A number guessing game.
 
 ## Installation
 
